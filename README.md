@@ -1,10 +1,16 @@
 ## Codility Test Solutions
 
 This repository contains solutions for Codility test problems. 
+
+
 Three different problems are addressed:
 
 2. Unique Time Combinations:
+
+
  File: 
+
+
     a. unique_time_combinations.py
     b. unique_time_combinations.js
     
