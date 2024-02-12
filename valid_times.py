@@ -1,4 +1,8 @@
-# THe task 2 of valid times
+# THe task 2 of the MOringa Cdility test the  valid times
+# The task is to find the number of valid times that can be formed from the given digits
+# The time is valid if it is in the format HH:MM and HH is in the range 00-23 and MM is in the range 00-59
+# The function should return the number of valid times that can be formed from the given digits
+# The function should take four arguments A, B, C, D which are the digits to form the time
 
 from itertools import permutations
 
@@ -19,9 +23,6 @@ def solution(A, B, C, D):
             
     return len(valid_perm_times)
 
-# # Test cases
+# # Test case 
 # A, B, C, D = 2, 3, 3, 2
-# print(solution(A, B, C, D)) # 3
-
-# A, B, C, D = 1, 8, 3, 2
-# print(solution(A, B, C, D)) # 6
+# print(solution(A, B, C, D)) 
