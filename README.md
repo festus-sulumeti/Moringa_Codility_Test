@@ -5,6 +5,25 @@ This repository contains solutions for Codility test problems.
 
 Three different problems are addressed:
 
+
+1. Tournament Simulation:
+ 
+ 
+ File: 
+  
+  
+    a. tournament_simulation.py
+    b. tournament_simulation.js
+
+     These two files are for the task 1 test on the codility test, written in both python and JavaScript
+    
+
+ Function: solution(skills)
+ Description: Simulates a tournament among players with given skills. It returns the number of rounds each player survives.
+
+ 
+
+
 2. Unique Time Combinations:
 
 
