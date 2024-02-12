@@ -27,10 +27,10 @@ Three different problems are addressed:
 File:
 
 
- a. grid_movement.py
- b. grid_movement.js
+    a. grid_movement.py
+    b. grid_movement.js
 
-   These two files are for the task 3 test on the codility test, both are written in js and python
+     These two files are for the task 3 test on the codility test, both are written in js and python
 
 Function: solution(S)
 Description: Simulates movements on a grid based on input string S containing directional moves ("<", ">", "^", "v"). It returns the count of all moves, including invalid ones.
