@@ -1,12 +1,14 @@
 ## Codility Test Solutions
 
-This repository contains solutions for Codility test problems. Three different problems are addressed:
+This repository contains solutions for Codility test problems. 
+Three different problems are addressed:
 
 2. Unique Time Combinations:
- File: unique_time_combinations.py
-       unique_time_combinations.js
-       
-       This file is for the task 2 test on the codility test
+ File: 
+    a. unique_time_combinations.py
+    b. unique_time_combinations.js
+    
+     These two files are for the task 2 test on the codility test, written in both python and JavaScript
 
  Function: solution(A, B, C, D)
  Description: Given four digits, the function calculates the number of unique time combinations that can be formed using these digits as hours and minutes.
